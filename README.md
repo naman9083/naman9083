@@ -41,5 +41,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"/>
 <br/>
 ### 📈 GitHub stats
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/></p>
 
