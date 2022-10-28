@@ -35,7 +35,7 @@
 - 💼 any freelance work? do reach, [email](mailto:namankhurana9083@gmail.com) :)
 
 <!-- Actual text -->
-<div style="text-align:right";>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"/>
@@ -46,7 +46,7 @@
 
 - 📈 GitHub stats
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 </div>
 
 
