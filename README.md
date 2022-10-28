@@ -35,6 +35,5 @@
 
 <div style="text-align:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
-<img src="https://raw.githubusercontent.com/naman9083/didactic-lamp/01d3c6315a291d0e3660ea05eda726632c42dbbd/generated/overview.svg#gh-dark-mode-only"/>
-<img src="https://raw.githubusercontent.com/naman9083/didactic-lamp/01d3c6315a291d0e3660ea05eda726632c42dbbd/generated/languages.svg#gh-dark-mode-only"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman9083)](https://github.com/naman9083/github-readme-stats)
 </div>
