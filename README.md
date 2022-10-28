@@ -28,7 +28,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
  <br/>
- <br/>
+
  
  
 
@@ -38,6 +38,7 @@
 
 <div style="text-align:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"/>
 
 </div>
