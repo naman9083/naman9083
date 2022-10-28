@@ -1,5 +1,5 @@
 ![Header](./github-header-image2.png)
-### Hello there 👋
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on Mobile Applications
 - 🌱 I’m currently learning Flutter and Native Android
