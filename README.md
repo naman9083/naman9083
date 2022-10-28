@@ -1,6 +1,20 @@
 ![Header](./github-header-image2.png)
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<a href="https://www.instagram.com/naman_k_2311/">
+  <img align="left" alt="Naman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
+<a href="https://twitter.com/Naman07679921">
+  <img align="left" alt="Naman Khurana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/naman-khurana-b016a3210/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=naman9083.naman9083)
+
+<br />
+ 
 
 - 🔭 I’m currently working on Mobile Applications
 - 🌱 I’m currently learning Flutter and Native Android
