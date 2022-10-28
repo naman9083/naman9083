@@ -40,6 +40,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"/>
 <br/>
-### 📈 GitHub stats
+
+
+- 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/></p>
+
+### 🙊 A little laughter for you
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
