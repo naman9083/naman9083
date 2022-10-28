@@ -45,7 +45,10 @@
 
 
 - 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/></p>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="150" />
+</div>
+
 
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
