@@ -35,5 +35,5 @@
 
 <div style="text-align:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman9083)](https://github.com/naman9083/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"/>
 </div>
