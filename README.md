@@ -11,7 +11,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=naman9083)
+![](https://visitor-badge.glitch.me/badge?page_id=naman9083.naman9083)
 
 <br />
  
