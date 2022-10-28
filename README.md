@@ -1,4 +1,4 @@
-![Header](./github-header-image2.png)
+![](https://raw.githubusercontent.com/zluvsand/zluvsand/master/banner.gif)
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://www.instagram.com/naman_k_2311/">
   <img align="left" alt="Naman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
