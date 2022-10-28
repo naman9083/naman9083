@@ -25,7 +25,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No one other better understands the code of a problem than his writer
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="120" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
  
  
 
