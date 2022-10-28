@@ -33,14 +33,8 @@
 
 <!-- Actual text -->
 
-- ❦ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Naman07679921
-[2]: https://www.linkedin.com/in/naman-khurana-b016a3210/
+<div style="text-align:center;">
+<img src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
+<img src="https://raw.githubusercontent.com/naman9083/didactic-lamp/01d3c6315a291d0e3660ea05eda726632c42dbbd/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/naman9083/didactic-lamp/01d3c6315a291d0e3660ea05eda726632c42dbbd/generated/languages.svg#gh-dark-mode-only"/>
+</div>
