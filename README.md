@@ -36,7 +36,8 @@
 
 <!-- Actual text -->
 
-<div style="text-align:right;">
+<div style="text-align:right;margin-left: auto; 
+margin-right: 0;">
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"/>
