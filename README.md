@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Flutter and Native Android
 - 👯 I’m looking to collaborate on Mobile App Projects
 - 🤔 I’m looking for help with bugs and problem occurs during App Development
-- 💬 Ask me about Mobile Apps,i am happy to help;
+- 💬 Ask me about Mobile Apps,I am happy to help;
 - 📫 How to reach me: Ping me on +917017251685 or on namankhurana9083@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No one other better understands the code of a problem than his writer
@@ -39,4 +39,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"/>
+
+### 📈 GitHub stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/></p>
 
