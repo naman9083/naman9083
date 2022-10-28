@@ -1,5 +1,5 @@
 ![Header](./github-header-image2.png)
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on Mobile Applications
 - 🌱 I’m currently learning Flutter and Native Android
