@@ -6,10 +6,13 @@
 - 🌱 I’m currently learning Flutter and Native Android
 - 👯 I’m looking to collaborate on Mobile App Projects
 - 🤔 I’m looking for help with bugs and problem occurs during App Development
-- 💬 Ask me about Mobile Apps especially Android
+- 💬 Ask me about Mobile Apps,i am happy to help;
 - 📫 How to reach me: Ping me on +917017251685 or on namankhurana9083@gmail.com
 - 😄 Pronouns: ...
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - ⚡ Fun fact: No one other better understands the code of a problem than his writer
+- 💼 any freelance work? do reach, [email](mailto:namankhurana9083@gmail.com) :)
 
 <!-- Actual text -->
 
