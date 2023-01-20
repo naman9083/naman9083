@@ -37,8 +37,8 @@
 
 <!-- Actual text -->
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=naman9083&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
-  ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9083&theme=dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=naman9083&theme=dark&show_icons=true" alt="github stats"/>
+<!--   ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9083&theme=dark&show_icons=true) -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083"  width="300" height="200"/>
   
