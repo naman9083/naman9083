@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="30px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=naman9083)
+![](https://komarev.com/ghpvc/?username=naman9083&color=yellowgreen)
 
 <br />
  
