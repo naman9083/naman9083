@@ -2,11 +2,11 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Naman Khurana - Android Developer
 <a href="https://www.instagram.com/naman_k_7375/">
-  <img align="left" alt="Naman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Naman's Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
 </a>
 
 <a href="https://twitter.com/Naman07679921">
-  <img align="left" alt="Naman Khurana | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Naman Khurana | Twitter" width="22px" src="https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20with%20padding/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/naman-khurana-b016a3210/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
