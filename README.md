@@ -9,7 +9,7 @@
   <img align="left" alt="Naman Khurana | Twitter" width="30px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/twitter-circle.svg" />
 </a>
 <a href="https://www.linkedin.com/in/naman-khurana-b016a3210/">
-  <img align="left" alt="Abhishek's LinkedIN" width="30px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg" />
+  <img align="left" alt="Naman's LinkedIN" width="30px" src="https://e7.pngegg.com/pngimages/602/665/png-clipart-linkedin-linkedin-thumbnail.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=naman9083&color=yellowgreen)
