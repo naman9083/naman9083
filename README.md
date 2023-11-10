@@ -6,10 +6,10 @@
 </a>
 
 <a href="https://twitter.com/Naman07679921">
-  <img align="left" alt="Naman Khurana | Twitter" width="30px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/twitter-circle.svg" />
+  <img align="left" alt="Naman Khurana | Twitter" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHV0fglL577ptRuph3mmcKb7PYcsGFoeBYWQ&usqp=CAU" />
 </a>
 <a href="https://www.linkedin.com/in/naman-khurana-b016a3210/">
-  <img align="left" alt="Naman's LinkedIN" width="30px" src="https://e7.pngegg.com/pngimages/602/665/png-clipart-linkedin-linkedin-thumbnail.png" />
+  <img align="left" alt="Naman's LinkedIN" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkqqjj5uvBLKSujvi0IDIMIjJ00x0aF5isw&usqp=CAU" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=naman9083&color=yellowgreen)
