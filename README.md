@@ -1,7 +1,7 @@
 ![](./banner.gif)
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Naman Khurana - Android Developer
-<a href="https://www.instagram.com/naman_k_7375/">
+<a href="https://www.instagram.com/the__tanz/">
   <img align="left" alt="Naman's Instagram" width="30px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
 </a>
 
