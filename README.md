@@ -68,13 +68,12 @@
 
 
  
-<div align="left">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman9083&theme=dracula&row=2&column=3" alt="naman9083" /></a> </p>
-<div/>
-<div align="right">
+
   
-<p> 🙊 A little laughter for you</p>
-<img src="https://readme-jokes.vercel.app/api?theme=dracula"/>
+<p> <img src="https://readme-jokes.vercel.app/api?theme=dracula"/></p>
+
 
 </div>
 
