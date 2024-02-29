@@ -67,15 +67,15 @@
 <br/>
 
 
- <div style="height:100px; width:100px">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman9083&theme=dracula&row=2&column=3" alt="naman9083" /></a> </p>
 
-  
+  ![JOKES CARD]
 <img src="https://readme-jokes.vercel.app/api?theme=dracula" style="margin:30px;"/>
 
 
-</div>
+
 
 
 
