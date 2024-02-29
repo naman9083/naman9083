@@ -32,7 +32,7 @@
 - 👯 I’m looking to collaborate on C++ and Embedded Application Projects
 - 🤔 I’m looking for help with bugs and problem occurs during Embedded Development
 - 💬 Ask me about Mobile Apps,I am happy to help;
-- 📫 How to reach me: Ping me on [Phone](tel:+917017251685) or on  [email](mailto:namankhurana9083@gmail.com) :)
+- 📫 How to reach me: Ping me on [Phone](mailto:+917017251685) or on  [email](mailto:namankhurana9083@gmail.com) :)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No one other better understands the code of a problem than his writer
 
@@ -57,7 +57,7 @@
 
 - 📈 GitHub stats
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman9083&theme=dracula"/>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="300" />
   
 </div>
 
