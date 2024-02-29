@@ -1,6 +1,18 @@
 ![](./banner.gif)
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Naman Khurana - Android Developer
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naman9083&label=Profile%20views&color=0e75b6&style=flat" alt="naman9083" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman9083" alt="naman9083" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&show_icons=true&locale=en&layout=compact" alt="naman9083" /></p>
+
 <a href="https://www.instagram.com/the__tanz/">
   <img align="left" alt="Naman's Instagram" width="30px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
 </a>
