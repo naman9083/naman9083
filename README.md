@@ -1,6 +1,6 @@
 ![](./banner.gif)
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Naman Khurana - Android Developer
+### I am Naman Khurana - C++ Engineer
 
 
 </p>
@@ -27,12 +27,12 @@
 <br />
  
 
-- 🔭 I’m currently working on Mobile Applications
-- 🌱 I’m currently learning Flutter and Native Android
-- 👯 I’m looking to collaborate on Mobile App Projects
-- 🤔 I’m looking for help with bugs and problem occurs during App Development
+- 🔭 I’m currently working on C++ and Embedded Applications
+- 🌱 I’m currently learning OOPS and Modern C++ Concepts
+- 👯 I’m looking to collaborate on C++ and Embedded Application Projects
+- 🤔 I’m looking for help with bugs and problem occurs during Embedded Development
 - 💬 Ask me about Mobile Apps,I am happy to help;
-- 📫 How to reach me: Ping me on +917017251685 or on namankhurana9083@gmail.com
+- 📫 How to reach me: Ping me on [Phone](tel:+917017251685) or on  [email](mailto:namankhurana9083@gmail.com) :)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No one other better understands the code of a problem than his writer
 
@@ -43,7 +43,7 @@
  
  
 
-- 💼 any freelance work? do reach, [email](mailto:namankhurana9083@gmail.com) :)
+<!-- - 💼 any freelance work? do reach, [email](mailto:namankhurana9083@gmail.com) :) -->
 
 <!-- Actual text -->
 <div>
