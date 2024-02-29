@@ -76,7 +76,7 @@
 <div>
 
 ### 🙊 A little laughter for you
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&width="300"&height="300")
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&width="300"&height="500")
 
 </div>
 
