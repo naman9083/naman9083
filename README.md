@@ -67,7 +67,7 @@
 <br/>
 
 
- <div style="height:100px; width:100px">
+ <div style="height:30px; width:30px">
 
 <p align="left" style="height:100px; width:100px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman9083&theme=dracula&row=2&column=3" alt="naman9083" /></a> </p>
 
