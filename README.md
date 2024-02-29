@@ -44,14 +44,13 @@
 - 💼 any freelance work? do reach, [email](mailto:namankhurana9083@gmail.com) :)
 
 <!-- Actual text -->
-<div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&theme=dracula&show_icons=true" alt="github stats"/>
 <!--   ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9083&theme=dark&show_icons=true) -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&theme=dracula&show_icons=true&locale=en&layout=compact" alt="naman9083" />
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-  
-</div>
+
 <br/>
 
 
