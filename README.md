@@ -8,7 +8,6 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&theme=dracula&show_icons=true&locale=en&layout=compact" alt="naman9083" /></p>
 
 <a href="https://www.instagram.com/the__tanz/">
   <img align="left" alt="Naman's Instagram" width="30px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
@@ -49,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&theme=dracula&show_icons=true" alt="github stats"/>
 <!--   ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9083&theme=dark&show_icons=true) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman9083&theme=dracula"  width="300" height="200"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&theme=dracula&show_icons=true&locale=en&layout=compact" alt="naman9083" width="300" height="200"/></p>
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
