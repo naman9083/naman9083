@@ -20,7 +20,7 @@
   <img align="left" alt="Naman's LinkedIN" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkqqjj5uvBLKSujvi0IDIMIjJ00x0aF5isw&usqp=CAU" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=naman9083&color=yellowgreen)
+![](https://komarev.com/ghpvc/?username=naman9083&color=yellowgreen&theme=dracula)
 
 <br />
  
