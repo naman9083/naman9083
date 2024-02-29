@@ -74,7 +74,7 @@
 <div align="right">
   
 <p> 🙊 A little laughter for you</p>
-<p align="right">[Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)</p>
+[Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 </div>
 </div>
 
