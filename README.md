@@ -66,7 +66,7 @@
 
 <br/>
 
-<div style="margin:30px display: flex"; > 
+<div style="margin:30px; display:flex" > 
 
 
   
