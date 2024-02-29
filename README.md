@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&show_icons=true&locale=en&layout=compact" alt="naman9083" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&theme=dracula&show_icons=true&locale=en&layout=compact" alt="naman9083" /></p>
 
 <a href="https://www.instagram.com/the__tanz/">
   <img align="left" alt="Naman's Instagram" width="30px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />
