@@ -70,7 +70,8 @@
 
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman9083" alt="naman9083" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman9083&theme=dracula" alt="naman9083" /></a> </p>
+
 
 </div>
 <div style="margin:30px "; > 
