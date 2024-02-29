@@ -34,7 +34,9 @@
 - 💬 Ask me about Mobile Apps,I am happy to help;
 - 📫 How to reach me: Ping me on [Phone](mailto:+917017251685) or on  [email](mailto:namankhurana9083@gmail.com) :)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: No one other better understands the code of a problem than his writer
+- ⚡ Fun fact:
+- 
+  ![JOKES CARD](https://readme-jokes.vercel.app/api?theme=dracula)
 
 <!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" /> -->
  
