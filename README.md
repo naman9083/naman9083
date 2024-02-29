@@ -48,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=naman9083&theme=dracula&show_icons=true" alt="github stats"/>
 <!--   ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman9083&theme=dark&show_icons=true) -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&theme=dracula&show_icons=true&locale=en&layout=compact" alt="naman9083" width="300" height="200"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman9083&theme=dracula&show_icons=true&locale=en&layout=compact" alt="naman9083" width="300" height="200"/>
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
